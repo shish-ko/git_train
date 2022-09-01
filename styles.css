@@ -2,6 +2,12 @@
     display: block;
     margin: auto;
 }
+.asd{
+    margin-left: 20px;
+}
+h2{
+    font-size: larger;
+}
 .second{
     padding: 10px;
 }
