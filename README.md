@@ -1,2 +1,6 @@
 Git
 second line
+article
+<<<<<
+.......
+>>>>>
